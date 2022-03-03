@@ -18,15 +18,6 @@
 
 - **第三方服务。由第三方提供的软件开发包（SDK） 可能会收集国际移动设备识别码、唯一设备标识符、SIM卡状态信息、IP 地址、WLAN接入点、基站等。请注意，第三方 SDK 可能因为其版本升级、策略调整等原因导致数据处理类型存在一定变化，请以其公示的官方说明为准。详见第三方SDK列表：**
 
-
-|SDK名称|友盟SDK|
-| ----- | ----- |
-|应用场景|统计分析服务|
-|收集类型|设备Mac地址、唯一设备识别码（IMEI/android ID/IDFA/OPENUDID/GUID、SIM 卡 IMSI 信息）以提供统计分析服务|
-|SDK提供方|友盟|
-|隐私政策|https://www.umeng.com/policy|
-
-
 |SDK名称|应用场景|收集类型|SDK提供方|隐私政策|
 | ----- | ----- | ----- | ----- | ----- |
 | 友盟SDK|统计分析服务|设备Mac地址、唯一设备识别码（IMEI/android ID/IDFA/OPENUDID/GUID、SIM 卡 IMSI 信息）以提供统计分析服务 | 友盟 | https://www.umeng.com/policy |
