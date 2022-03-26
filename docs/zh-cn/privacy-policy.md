@@ -26,9 +26,9 @@
 
 |  设备权限|扩展功能说明|是否可关闭|
 |  ----- | ----- | ----- |
-| WRITE_EXTERNAL_STORAGE读取外置储存器| 数据下载、数据备份| 可以，关闭后进影响对应功能，不影响 App 其他功能|
-| ACCESS_WIFI_STATE获取用户设备的mac地址| 用于友盟SDK统计分析服务|可以，关闭后进影响对应功能，不影响 App 其他功能|
-| READ_PHONE_STATE获取用户设备的IMEI| 用于友盟SDK统计分析服务|可以，关闭后进影响对应功能，不影响 App 其他功能|
+| WRITE_EXTERNAL_STORAGE读取外置储存器| 数据下载、数据备份| 可以，关闭后仅影响对应功能，不影响 App 其他功能|
+| ACCESS_WIFI_STATE获取用户设备的mac地址| 用于友盟SDK统计分析服务|可以，关闭后仅影响对应功能，不影响 App 其他功能|
+| READ_PHONE_STATE获取用户设备的IMEI| 用于友盟SDK统计分析服务|可以，关闭后仅影响对应功能，不影响 App 其他功能|
 
 ### Cookie的使用
 
