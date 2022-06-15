@@ -7,10 +7,10 @@
         "text": "遇到任何bug，请反馈给开发者"
     },
     "update": {
-        "ver": 20210820,
+        "ver": 20220615,//20210820
         "minimum": 20201227,
-        "text": "MyACG_V1.1.7.9\n\n-搜索类型在没有搜索源情况自动默认\n-调整漫画底部状态栏\n-修复某些时候连接失败问题\n-优化横屏情况布局问题\n-修复订阅检测更新BUG\n-漫画滚动时点击屏幕禁止唤出菜单\n\n无法更新的长按复制链接至浏览器打开:\n蓝奏云:\nhttps://lanzou.com/b07xqlbxc",
-        "url": "https://ylk2534246654.coding.net/p/myacg/d/MyACG/git/raw/master/file/MyACG_V1.1.7.9.apk"
+        "text": "【限时推送公测更新】MyACG_V1.2.8\n\n- 不覆盖安装\n- 重新开发\n- 全新界面\n- 安装以后和旧版共存（图标无文字阴影的为新版）\n\n无法更新的长按复制链接至浏览器打开:\n蓝奏云:\nhttps://lanzou.com/b07xqlbxc\n\n新版第一次使用：\nhttp://inews.gtimg.com/newsapp_ls/0/15010655433/0",
+        "url": "https://ylk2534246654.coding.net/p/myacg/d/MyACG/git/raw/master/file/MyACG_V1.2.8_beta.apk"
     },
     "md5_1.0.4":"f148ec61ecbf0452e27bd5cd8b40c1f6",
     "md5_1.0.5":"db2e37a74dae1885747ee255a7fcb0f7",
