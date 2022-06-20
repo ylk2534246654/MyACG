@@ -9,8 +9,8 @@
     "update": {
         "ver": 20220615,//20210820
         "minimum": 20201227,
-        "text": "【时隔一年，限时推送公测更新】\nMyACG_V1.2.8\n\n- 不覆盖安装\n- 账号互通\n- 重新开发\n- 全新界面\n- 安装以后和旧版共存（图标无文字阴影的为新版，安装以后可选择卸载旧版）\n\n无法更新的长按复制链接至浏览器打开:\n蓝奏云:\nhttps://lanzou.com/b07xqlbxc\n\n新版第一次如何使用：\nhttp://inews.gtimg.com/newsapp_ls/0/15010655433/0",
-        "url": "https://ylk2534246654.coding.net/p/myacg/d/MyACG/git/raw/master/file/MyACG_V1.2.8_beta.apk"
+        "text": "【时隔一年，限时推送公测更新】\nMyACG_V1.2.9\n\n- 不覆盖安装\n- 账号互通\n- 重新开发\n- 全新界面\n- 安装以后和旧版共存（图标无文字阴影的为新版，安装以后可选择卸载旧版）\n\n无法更新的长按复制链接至浏览器打开:\n蓝奏云:\nhttps://lanzou.com/b07xqlbxc\n\n新版第一次如何使用：\nhttp://inews.gtimg.com/newsapp_ls/0/15010655433/0",
+        "url": "https://ylk2534246654.coding.net/p/myacg/d/MyACG/git/raw/master/file/MyACG_V1.2.9_beta.apk"
     },
     "md5_1.0.4":"f148ec61ecbf0452e27bd5cd8b40c1f6",
     "md5_1.0.5":"db2e37a74dae1885747ee255a7fcb0f7",
