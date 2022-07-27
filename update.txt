@@ -9,7 +9,7 @@
     "update": {
         "ver": 20220717,//20210820
         "minimum": 20201227,//20201227
-        "text": "【公测更新】\nMyACG_V1.3.4\n注:旧版大部分搜索源已失效，难以维护，强烈建议更新至新版\n\n- 全新界面\n- 不覆盖安装\n- 账号互通\n- 数据不互通需重新搜索订阅\n- 安装以后和旧版共存（图标无文字阴影的为新版，安装以后可选择卸载旧版）\n\n下载链接:\nhttps://lanzoup.com/il6Rx08icpva\n\n备用:https://lanzou.com/b07xqlbxc\n\n新版第一次如何使用：\nhttp://inews.gtimg.com/newsapp_ls/0/15010655433/0\n\nQQ反馈群：273604250",
+        "text": "【公测更新】\nMyACG_V1.3.4\n注:旧版大部分搜索源已失效，难以维护，强烈建议更新至新版\n\n- 全新界面\n- 不覆盖安装\n- 账号互通\n- 数据不互通需重新搜索订阅\n- 安装以后和旧版共存（图标无文字阴影的为新版，安装以后可选择卸载旧版）\n\n下载链接:\nhttps://www.wenshushu.cn/f/8wg8m91cz4b\n\n备用:https://lanzou.com/b07xqlbxc\n\n新版第一次如何使用：\nhttp://inews.gtimg.com/newsapp_ls/0/15010655433/0\n\nQQ反馈群：273604250",
         "url": "https://jihulab.com/ylk2534246654/MyACG/-/raw/master/file/MyACG_V1.3.4_beta.apk"
     },
     "md5_1.0.4":"f148ec61ecbf0452e27bd5cd8b40c1f6",
