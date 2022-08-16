@@ -3,7 +3,7 @@
     "update": {
         "ver": 20220814,//20210820
         "minimum": 20201227,//20201227
-        "text": "MyACG_V1.3.4\n\n下载地址:\nhttps://www.wenshushu.cn/f/8wgifbyo2q3\n\nhttps://lanzou.com/b07xqlbxc\n\n新版第一次使用：\nhttp://inews.gtimg.com/newsapp_ls/0/15010655433/0",
-        "url": "https://jihulab.com/ylk2534246654/MyACG/-/raw/master/file/MyACG_V1.3.4_beta.apk"
+        "text": "MyACG_V1.3.5\n\n下载地址:\nhttps://www.wenshushu.cn/f/921g3ex4cln\n\nhttps://lanzou.com/b07xqlbxc\n\n新版第一次使用：\nhttp://inews.gtimg.com/newsapp_ls/0/15010655433/0",
+        "url": "https://jihulab.com/ylk2534246654/MyACG/-/raw/master/file/MyACG_V1.3.5_beta.apk"
     }
 }
