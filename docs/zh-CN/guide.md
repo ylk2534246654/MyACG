@@ -1,4 +1,4 @@
-~~支持从本地和 WebDAV 导入Epub/TxT图库和书籍~~
+~~支持从本地和 WebDAV 导入Epub/TxT书籍和图库~~
 
 支持通过加载 JavaScript 代码作为搜索源实现搜索或加载在线资源
 
