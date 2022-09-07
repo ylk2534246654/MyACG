@@ -1,4 +1,4 @@
-~~支持从本地和 WebDAV 导入Epub/TxT书籍和图库~~
+~~支持从本地和 WebDAV 导入 Epub/TXT 书籍和图库~~
 
 支持通过加载 JavaScript 代码作为搜索源实现搜索或加载在线资源
 
@@ -14,7 +14,9 @@
 ### 更多搜索源
 
 - [QQ频道](https://pd.qq.com/s/71e9c6)
+
 - [百度贴吧](https://tieba.baidu.com/f?kw=myacg)
+
 - [搜索源开发文档（待完善）](https://www.kancloud.cn/ylk2534246654/myacg/3014260)
 
 ### 登录账号
