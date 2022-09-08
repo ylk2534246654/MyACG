@@ -11,14 +11,6 @@
 
 ![从网络搜索订阅](https://pic7.58cdn.com.cn/nowater/webim/big/n_v2aafbf9a460174f3688453cb9b235d9e7.jpg)
 
-### 更多搜索源
-
-- [QQ频道](https://pd.qq.com/s/71e9c6)
-
-- [百度贴吧](https://tieba.baidu.com/f?kw=myacg)
-
-- [搜索源开发文档（待完善）](https://www.kancloud.cn/ylk2534246654/myacg/3014260)
-
 ### 登录账号
 
 - 在主页中点击***右上角选项***
@@ -55,3 +47,13 @@
 - 点击 **WebDAV**
 - 填写 WebDAV 服务器地址、账号和授权密钥，并且登录
 - 在弹出的文件管理器内选择需导入的资源即可
+
+### 更多搜索源
+
+- [频道](https://pd.qq.com/s/71e9c6)
+
+
+- [百度贴吧](https://tieba.baidu.com/f?kw=myacg)
+
+
+- [搜索源开发文档（待完善）](https://www.kancloud.cn/ylk2534246654/myacg/3014260)
