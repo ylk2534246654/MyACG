@@ -1,9 +1,9 @@
 {
     "ip": "3C98C37EBC6248E193B4526FC2",
     "update": {
-        "ver": 20220814,//20210820
-        "minimum": 20201227,//20201227
-        "text": "MyACG_V1.3.7\n\n下载地址:\nhttps://www.wenshushu.cn/f/98eswyk9bu5\n\nhttps://lanzou.com/b07xqlbxc\n\n新版第一次使用：\nhttp://inews.gtimg.com/newsapp_ls/0/15010655433/0",
+        "ver": 20220908,//20210820
+        "minimum": 20210820,//20201227
+        "text": "【旧版随时可能无法访问，建议提前安装新版以做不时之需】\nMyACG_V1.3.7\n\n下载地址:\nhttps://www.wenshushu.cn/f/98eswyk9bu5\n\nhttps://lanzou.com/b07xqlbxc",
         "url": "https://jihulab.com/ylk2534246654/MyACG/-/raw/master/file/MyACG_V1.3.7_beta.apk"
     }
 }
