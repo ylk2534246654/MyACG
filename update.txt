@@ -3,7 +3,7 @@
     "update": {
         "ver": 20220908,//20210820
         "minimum": 20210820,//20201227
-        "text": "【旧版由于已停止维护，随时可能无法访问，建议提前安装新版以做不时之需】\n\nMyACG_V1.3.7\n手动更新网址：\n蓝奏云网址：\nhttps://www.wenshushu.cn/f/98eswyk9bu5\n蓝奏云网址：\nhttps://lanzou.com/b07xqlbxc\n百度网盘网址：\nhttps://pan.baidu.com/s/1kVkWknH",
+        "text": "【旧版由于已停止维护，随时可能无法访问，建议提前安装新版以做不时之需】\n\nMyACG_V1.3.7\n手动更新网址：\n文叔叔网址：\nhttps://www.wenshushu.cn/f/98eswyk9bu5\n蓝奏云网址：\nhttps://lanzou.com/b07xqlbxc\n百度网盘网址：\nhttps://pan.baidu.com/s/1kVkWknH",
         "url": "https://jihulab.com/ylk2534246654/MyACG/-/raw/master/file/MyACG_V1.3.7_beta.apk"
     }
 }
