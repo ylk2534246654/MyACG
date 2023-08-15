@@ -10,7 +10,7 @@
         "ver": 20230815,//20210820
         "minimum": 20210820,//20210820
         "text": "「当前版本过低，已停止维护，请前往新版」\n\nMyACG_V1.4.5\n手动下载网址：\n123网盘：\nhttps://www.123pan.com/s/NS2UVv-nEs53\n蓝奏云网址：\nhttps://lanzoup.com/b07xqlbxc\n百度网盘网址：\nhttps://pan.baidu.com/s/1kVkWknH",
-        "url": "https://jihulab.com/ylk2534246654/MyACG/-/raw/master/file/MyACG_V1.4.5_beta.apk"
+        "url": "https://jihulab.com/ylk2534246654/MyACG/-/raw/master/file/MyACG_V1.4.5.1_beta.apk"
     },
     "md5_1.0.4":"f148ec61ecbf0452e27bd5cd8b40c1f6",
     "md5_1.0.5":"db2e37a74dae1885747ee255a7fcb0f7",
