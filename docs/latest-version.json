@@ -1,4 +1,5 @@
 {
+  "minSdk":               16,
   "version":              20230823,
   "minVersion":           20220225,
   "privacyPolicyVersion": 20220320,
