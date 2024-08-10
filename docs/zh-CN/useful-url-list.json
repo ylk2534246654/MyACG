@@ -11,28 +11,32 @@
   ],
   "识图网站": [
     {
-      "name": "SauceNAO",
+      "name": "SauceNAO(p站)",
       "url": "https://saucenao.com"
     },
     {
-      "name": "百度识图",
+      "name": "百度识图(搜不完整图片)",
       "url": "https://graph.baidu.com/pcpage/index?tpl_from=pc"
     },
     {
-      "name": "谷歌识图",
-      "url": "https://shitu.paodekuaiweixinqun.com"
+      "name": "谷歌识图(推特/漫画/本子/图片)",
+      "url": "https://www.google.com/imghp"
     },
     {
-      "name": "IQDB识图",
+      "name": "IQDB识图(p站)",
       "url": "http://www.iqdb.org"
     },
     {
-      "name": "ascii2d识图",
+      "name": "ascii2d识图(推特上有关二次元动态/p站)",
       "url": "https://ascii2d.net"
     },
     {
-      "name": "Yandex识图",
+      "name": "Yandex识图(推特/漫画/本子/图片)",
       "url": "https://yandex.com/images"
+    },
+    {
+      "name": "搜图bot搜图(本子)",
+      "url": "https://soutubot.moe"
     },
     {
       "name": "以图搜番",
