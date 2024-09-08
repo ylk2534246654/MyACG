@@ -1,7 +1,7 @@
 {
   "minSdk":               16,
   "version":              20240216,
-  "minVersion":           20230911,
+  "minVersion":           20240216,
   "privacyPolicyVersion": 20220320,
   "agreementVersion":     20220320,
   "host":                 "3879F32190CBD8ED365C23B8FAEBA7C8EB8D9C1D01821A1843E7",

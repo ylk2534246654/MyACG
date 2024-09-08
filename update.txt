@@ -8,7 +8,7 @@
     },
     "update": {
         "ver": 20240216,//20210820
-        "minimum": 20230815,//20210820
+        "minimum": 20240216,//20210820
         "text": "「当前版本过低，已停止维护，请前往新版」\n\nMyACG_V1.5.1\n手动下载网址：\n123网盘：\nhttps://www.123pan.com/s/NS2UVv-nEs53\n蓝奏云网址：\nhttps://lanzoup.com/b07xqlbxc\n百度网盘网址：\nhttps://pan.baidu.com/s/1kVkWknH",
         "url": "https://gitlab.com/ylk2534246654/MyACG/-/raw/master/file/MyACG_V1.5.1.2_beta.apk"
     }
